@@ -3,3 +3,5 @@ hahaha
 commit 2 test 
 test stage reset
 dev2 commit
+
+this is master commit
