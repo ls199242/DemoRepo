@@ -5,3 +5,5 @@ test stage reset
 dev2 commit
 
 this is master commit
+
+this is dev commit
